@@ -1,14 +1,14 @@
 # DailySwiftCodingProblems
-## A collection of some of my Swift Playgrounds where I am practicing the basics of computer programming.
+# A collection of some of my Swift Playgrounds where I am practicing the basics of computer programming.
 
-### Selected Exercises: (Recent to Old)
+## Selected Exercises: (Recent to Old)
 
 ### 2019:
 
-#### March:
+### March:
 
-##### 3/19:
-	Run-length encoding is a fast and simple method of encoding strings. The basic idea is to represent repeated successive characters as a single count and character. For example, the string "AAAABBBCCDAA" would be encoded as "4A3B2C1D2A". Implement run-length encoding and decoding. You can assume the string to be encoded have no digits and consists solely of alphabetic characters. You can assume the string to be decoded is valid.
+#### 3/19:
+Run-length encoding is a fast and simple method of encoding strings. The basic idea is to represent repeated successive characters as a single count and character. For example, the string "AAAABBBCCDAA" would be encoded as "4A3B2C1D2A". Implement run-length encoding and decoding. You can assume the string to be encoded have no digits and consists solely of alphabetic characters. You can assume the string to be decoded is valid.
 
 3/17:
 	Write an algorithm to justify text. Given a sequence of words and an integer line length k, return a list of strings which represents each line, fully justified.

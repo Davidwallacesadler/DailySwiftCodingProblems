@@ -1,4 +1,4 @@
-# DailySwiftCodingProblems: A collection of some of my Swift Playgrounds where I am practicing the basics of computer programming.
+# Daily Coding Problems Prompts:
 
 ## 2019:
 
@@ -126,3 +126,8 @@ Create a method that takes in an integer X and prints out every integer from 0 t
 
 #### 5/17:
 Create a Person class with stored properties: age, first name, last name. The class should have an initializer so objects of the Person class can be created.
+
+Sources:
+1. DevMountain exercizes
+2. CodeWars.com
+3. DailyCodingProblem.com

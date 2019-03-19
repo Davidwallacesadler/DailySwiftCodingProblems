@@ -1,4 +1,6 @@
 # Daily Coding Problems Prompts
+![coding icon]
+(https://raw.githubusercontent.com/Davidwallacesadler/DailySwiftCodingProblems/master/coding.png)
 
 ## 2019
 

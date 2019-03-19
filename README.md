@@ -1,4 +1,4 @@
-![coding icon](https://raw.githubusercontent.com/Davidwallacesadler/DailySwiftCodingProblems/master/coding.png)
+![coding icon](https://raw.githubusercontent.com/Davidwallacesadler/DailySwiftCodingProblems/master/coding.pngstyle=centerme)
 # Daily Coding Prompts
 
 ## 2019

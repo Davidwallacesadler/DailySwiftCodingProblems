@@ -2,13 +2,6 @@ import UIKit
 
 //Goal: Given a string, s, write a function that returns all possible subStrings of s.
 
-// SPOILER
-
-
-
-
-
-
 ///This function will take a string s and will return an array containing all possible substrings:
 func subStringsOf(s: String) -> [String] {
     

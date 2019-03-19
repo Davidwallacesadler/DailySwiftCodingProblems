@@ -1,7 +1,7 @@
 import Foundation
 /*
  RECASTING THE QUESTION:
- Its the year 2097 and the world uses a single currency called Credits. Credits have no denominations IE no fractional component. Imagine your friend inherits a fortune of Credits and he's making you guess how much he has, becuse he's a dick and doesn't want to tell you outright. He tells you that he has between m and n Credits and:
+ Its the year 2097 and the world uses a single currency called Credits. Credits have no denominations IE no fractional component. Imagine your friend inherits a fortune of Credits and he's making you guess how much he has, becuse he's mean and doesn't want to tell you outright. He tells you that he has between m and n Credits and:
  
     1. If he was to buy 9 cars costing c each, he'd only have 1 Credit left.
     2. And if he was to buy 7 boats at b each, I'd only have 2 Credits left.

@@ -1,8 +1,8 @@
-# Daily Coding Problems Prompts:
+# Daily Coding Problems Prompts
 
-## 2019:
+## 2019
 
-### March:
+### March
 
 #### 3/19:
 Run-length encoding is a fast and simple method of encoding strings. The basic idea is to represent repeated successive characters as a single count and character. For example, the string "AAAABBBCCDAA" would be encoded as "4A3B2C1D2A". Implement run-length encoding and decoding. You can assume the string to be encoded have no digits and consists solely of alphabetic characters. You can assume the string to be decoded is valid.
@@ -34,7 +34,7 @@ Given an integer k and a string s, find the length of the longest substring that
 #### 3/6:
 Given a string, s, write a function that returns all possible subStrings of s.
 
-### February:
+### February
 
 #### 2/27:
 Write a function that calls another function after 3 seconds have passed.
@@ -98,25 +98,25 @@ You’re a hospital that logs patients, every time a patient comes in you log a 
 #### 2/7:
 Write a function that, given an array A of N integers, returns the smallest positive integer (greater than 0) that does not occur in A. For example, given A = [1, 3, 6, 4, 1, 2], the function should return 5.  Given A = [1, 2, 3], the function should return 4. Given A = [−1, −3], the function should return 1. Write an efficient algorithm for the following assumptions:N is an integer within the range [1..100,000]; each element of array A is an integer within the range [−1,000,000..1,000,000].
 
-## 2018:
+## 2018
 
-### September:
+### September
 
 #### 9/27: 
 Make a person class with name, age, and favoriteMovie properties
 init the class with a dictionary of type string:anyobject. Test this to make sure that it works. Read about Failable Initializers. Use a guard statement to handle missing dictionary values If a value is missing, don’t init the person and instead return nil.
 
-### June:
+### June
 
 #### 7/11: 
 Make a constant called currentYear that is an integer equal to the current year (e.g. 2016). Create a Person struct with properties for first name as a String, last name as a String, and year of birth as an Int. Create an instance of the Person struct. Print out the instance’s birth year. Print out its first and last name. Add a computed property for age to the Person struct. Implement a getter for age. The getter should calculate and return the person’s age based on the current year and the person’s year of birth. (Hint: Look up getters in the Swift programming guide or in documentation). Implement a setter for age. The setter should update the year of birth based on the age and current year. (Hint: look up setters). Print out the person’s age. Update their age and then print their new year of birth.
 
-### July:
+### July
 
 #### 6/3:
 Create a new X-Code Project called ClubMembers. Copy over your Person class, clubMembers array, and make a new array that contains all of your Person objects, whether club members or not. Make sure to copy over your Equatable function as well (all of these should be put into the proper files, which you’ll need to make). Then create a tableView that displays all people with a subtitle that says club member or not a club member. Add a button that will reload your tableView and only show club members.
 
-### May:
+### May
 
 #### 5/25:
 Initialize Person objects with non optional properties age, first name, last name. Add one of them to the club array, but do not add the other. Now, create a function called areYouAMemberOfTheClub that takes a Person object as a parameter and returns a Bool indicating whether or not the person passed in is a member of the club. It should return true for the person that you added to the array of club members and false for the other person. note: there are a couple of ways to do this, but in all ways you will be using the clubMembers array as a reference. Perhaps you thought the best way to accomplish the above task was to loop through the clubMembers array in your function and see if the person passed in is equal to any of them using person == clubMembers[i], or something along those lines. Notice that you cannot use the == operator. This is because you must conform to the Equatable protocol. Go look it up in documentation.Make the Person object conform to the Equatable protocol and outside of the Person class create the necessary Equatable function. You should now be able to use the == operator between two Person objects, making it easier to make your areYouAMemberOfTheClub function. By conforming to the Equatable protocol, you are also given some array methods that help solve this problem (you don’t have to use them, but they make your life easier).

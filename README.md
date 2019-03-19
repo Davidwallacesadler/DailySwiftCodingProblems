@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="600" height="200" src="https://raw.githubusercontent.com/Davidwallacesadler/DailySwiftCodingProblems/master/coding.png">
+  <img width="600" height="600" src="https://raw.githubusercontent.com/Davidwallacesadler/DailySwiftCodingProblems/master/coding.png">
 </p>
 
 # Daily Coding Prompts

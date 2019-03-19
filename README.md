@@ -1,5 +1,5 @@
-# Daily Coding Problems Prompts
 ![coding icon](https://raw.githubusercontent.com/Davidwallacesadler/DailySwiftCodingProblems/master/coding.png)
+# Daily Coding Problems Prompts
 
 ## 2019
 

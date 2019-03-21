@@ -1,4 +1,8 @@
-# Daily Coding Problems Prompts
+<p align="center">
+  <img width="300" height="300" src="https://raw.githubusercontent.com/Davidwallacesadler/DailySwiftCodingProblems/master/coding.png">
+</p>
+
+# Daily Coding Prompts
 
 ## 2019
 

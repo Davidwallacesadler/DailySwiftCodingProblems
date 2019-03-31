@@ -33,7 +33,7 @@ func possibleItinerary(_ flights: [(String, String)],_ startAirport: String) -> 
             i += 1
         }
     }
-    // Check if the itinerary is infact the full thing, and if so return it, and if not return nil:
+    // Check if the itinerary is in fact the full thing, and if so return it, and if not return nil:
     if itinerary.count == flights.count + 1 {
         return itinerary
     } else {

@@ -8,6 +8,9 @@
 
 ### April
 
+#### 4/7:
+Given an array of numbers, find the maximum sum of any contiguous subarray of the array. For example, given the array [34, -50, 42, 14, -5, 86], the maximum sum would be 137, since we would take elements 42, 14, -5, and 86. Given the array [-5, -1, -8, -9], the maximum sum would be 0, since we would not take any elements. Do this in O(N) time.
+
 #### 4/2:
 We can determine how "out of order" an array A is by counting the number of inversions it has. Two elements A[i] and A[j] form an inversion if A[i] > A[j] but i < j. That is, a smaller element appears after a larger element. Given an array, count the number of inversions it has. Do this faster than O(N^2) time.
 

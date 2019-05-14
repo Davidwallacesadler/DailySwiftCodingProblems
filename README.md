@@ -8,6 +8,12 @@
 
 ### May
 
+#### 5/14:
+Given an array of integers, write a function to determine whether the array could become non-decreasing by modifying at most 1 element. For example, given the array [10, 5, 7], you should return true, since we can modify the 10 into a 1 to make the array non-decreasing. Given the array [10, 5, 1], you should return false, since we can't modify any one element to get a non-decreasing array.
+
+#### 5/12:
+Given a matrix of 1s and 0s, return the number of "islands" in the matrix. A 1 represents land and 0 represents water, so an island is a group of 1s that are neighboring whose perimeter is surrounded by water.
+
 #### 5/11:
 Suppose you have a multiplication table that is N by N. That is, a 2D array where the value at the i-th row and j-th column is (i + 1) * (j + 1) (if 0-indexed) or i * j (if 1-indexed). Given integers N and X, write a function that returns the number of times X appears as a value in an N by N multiplication table. For example, given N = 6 and X = 12, you should return 4.
 

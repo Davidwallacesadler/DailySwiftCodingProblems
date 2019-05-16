@@ -8,6 +8,9 @@
 
 ### May
 
+#### 5/15:
+Given a string of parentheses, write a function to compute the minimum number of parentheses to be removed to make the string valid (i.e. each open parenthesis is eventually closed). For example, given the string "()())()", you should return 1. Given the string ")(", you should return 2, since we must remove all of them.
+
 #### 5/14:
 Given an array of integers, write a function to determine whether the array could become non-decreasing by modifying at most 1 element. For example, given the array [10, 5, 7], you should return true, since we can modify the 10 into a 1 to make the array non-decreasing. Given the array [10, 5, 1], you should return false, since we can't modify any one element to get a non-decreasing array.
 

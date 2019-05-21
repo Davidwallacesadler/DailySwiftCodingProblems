@@ -8,6 +8,9 @@
 
 ### May
 
+#### 5/21:
+Write a method that takes in a Integer amount of days and returns the date in the future corrosponding to the current date plus the amount of days. Do this without using a TimeInterval.
+
 #### 5/18:
 Given an integer n and a list of integers l, write a function that randomly generates a number from 0 to n-1 that isn't in l (uniform).
 

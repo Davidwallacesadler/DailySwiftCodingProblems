@@ -8,6 +8,9 @@
 
 ### May
 
+#### 5/22:
+You are given an N by M 2D matrix of lowercase letters. Determine the minimum number of columns that can be removed to ensure that each row is ordered from top to bottom lexicographically. That is, the letter at each column is lexicographically later as you go down each row. It does not matter whether each row itself is ordered lexicographically.
+
 #### 5/21:
 Write a method that takes in a Integer amount of days and returns the date in the future corrosponding to the current date plus the amount of days. Do this without using a TimeInterval.
 

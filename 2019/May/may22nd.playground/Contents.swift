@@ -24,7 +24,7 @@ func minimumColumnsToRemove(givenLetterMatrix letters: [[String]]) -> Int {
         for letter in currentRow {
             // Check current letter is lexographically less than above letter and check to see if we have already accounted for this column already:
             if letter < previousRow[column] && targetColumnIndicies.contains(column) == false {
-                // The letter is less than the letter above it and we have'nt accounted for this column yet so append it to the target column collection:
+                // The letter is less than the letter above it and we haven't accounted for this column yet so append it to the target column collection:
                 targetColumnIndicies.append(column)
             }
             column += 1

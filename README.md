@@ -8,8 +8,11 @@
 
 ### May
 
+#### 5/30:
+Given a list of integers and a number K, return which contiguous elements of the list sum to K. For example, if the list is [1, 2, 3, 4, 5] and K is 9, then it should return [2, 3, 4], since 2 + 3 + 4 = 9.
+
 #### 5/28:
-Given an unsorted array of integers find the length of the longset consecutive elements sequence.
+Given an unsorted array of integers find the length of the longset consecutive elements sequence. PART 2: Write a method that returns todays date at the desired hour and minute.
 
 #### 5/22:
 You are given an N by M 2D matrix of lowercase letters. Determine the minimum number of columns that can be removed to ensure that each row is ordered from top to bottom lexicographically. That is, the letter at each column is lexicographically later as you go down each row. It does not matter whether each row itself is ordered lexicographically.

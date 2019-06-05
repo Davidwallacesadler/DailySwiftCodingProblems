@@ -8,6 +8,9 @@
 
 ### June
 
+#### 6/5:
+Given a 2D matrix of characters and a target word, write a function that returns whether the word can be found in the matrix by going left-to-right, or up-to-down.
+
 #### 6/4:
 Given an integer list where each number represents the number of hops you can make, determine whether you can reach to the last index starting at index 0.
 

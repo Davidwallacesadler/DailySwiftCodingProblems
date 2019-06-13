@@ -8,6 +8,9 @@
 
 ### June
 
+#### 6/12:
+Given a string and a set of delimiters, reverse the words in the string while maintaining the relative order of the delimiters. For example, given "hello/world:here", return "here/world:hello". Follow-up: Does your solution work for the following cases: "hello/world:here/", "hello//world:here".
+
 #### 6/5:
 Given a 2D matrix of characters and a target word, write a function that returns whether the word can be found in the matrix by going left-to-right, or up-to-down.
 

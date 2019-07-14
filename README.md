@@ -6,6 +6,14 @@
 
 ## 2019
 
+### July
+
+#### 7/13:
+Given an array of numbers and an index i, return the index of the nearest larger number of the number at index i, where distance is measured in array indices. For example, given [4, 1, 3, 5, 6] and index 0, you should return 3. If two distances to larger numbers are the equal, then return any one of them. If the array at i doesn't have a nearest larger integer, then return null. Follow-up: If you can preprocess the array, can you do this in constant time?
+
+#### 7/9:
+Given an array of integers in which two elements appear exactly once and all other elements appear exactly twice, find the two elements that appear only once. For example, given the array [2, 4, 6, 8, 10, 2, 6, 10], return 4 and 8. The order does not matter. Follow-up: Can you do this in linear time and constant space?
+
 ### June
 
 #### 6/12:

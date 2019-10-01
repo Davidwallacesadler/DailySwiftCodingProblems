@@ -6,6 +6,21 @@
 
 ## 2019
 
+### October
+
+#### 10/2:
+Write a method that finds the mode of a list of integers. IE if the list of integers is [1,2,3,1] the mode should be 1.
+
+### September
+
+#### 9/3:
+Create a simulation of the heat transfer of a solar panel to a storage tank (Thermodynamic Solar Panel).
+
+### August
+
+#### 8/22:
+Given an array of positive integers, divide the array into two subsets such that the difference between the sum of the subsets is as small as possible. For example, given [5, 10, 15, 20, 25], return the sets {10, 25} and {5, 15, 20}, which has a difference of 5, which is the smallest possible difference.
+
 ### July
 
 #### 7/13:

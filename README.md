@@ -8,12 +8,15 @@
 
 ### October
 
-#### 10/2:
+#### 10/3:
+Given a string and a pattern, find the starting indices of all occurrences of the pattern in the string. For example, given the string "abracadabra" and the pattern "abr", you should return [0, 7].
+
+#### 10/1:
 Write a method that finds the mode of a list of integers. IE if the list of integers is [1,2,3,1] the mode should be 1.
 
 ### September
 
-#### 9/3:
+#### 9/23:
 Create a simulation of the heat transfer of a solar panel to a storage tank (Thermodynamic Solar Panel).
 
 ### August

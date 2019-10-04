@@ -9,6 +9,9 @@
 ### October
 
 #### 10/3:
+Given an integer n, return the length of the longest consecutive run of 1s in its binary representation. For example, given 156, you should return 3.
+
+#### 10/4:
 Given a string and a pattern, find the starting indices of all occurrences of the pattern in the string. For example, given the string "abracadabra" and the pattern "abr", you should return [0, 7].
 
 #### 10/1:

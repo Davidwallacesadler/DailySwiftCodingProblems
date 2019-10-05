@@ -8,6 +8,9 @@
 
 ### October
 
+#### 10/5:
+Let X be a set of n intervals on the real line. We say that a set of points P "stabs" X if every interval in X contains at least one point in P. Compute the smallest set of points that stabs X. For example, given the intervals [(1, 4), (4, 5), (7, 9), (9, 12)], you should return [4, 9].
+
 #### 10/4:
 Write a program that checks whether an integer is a palindrome. For example, 121 is a palindrome, as well as 888. 678 is not a palindrome. Do not convert the integer into a string.
 

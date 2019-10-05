@@ -8,6 +8,9 @@
 
 ### October
 
+#### 10/4:
+Write a program that checks whether an integer is a palindrome. For example, 121 is a palindrome, as well as 888. 678 is not a palindrome. Do not convert the integer into a string.
+
 #### 10/3:
 Given an integer n, return the length of the longest consecutive run of 1s in its binary representation. For example, given 156, you should return 3.
 
